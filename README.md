@@ -23,7 +23,7 @@ kubectl get all -l homework=frontapp
 
 Commands for deleting both applications and resources:
 
-kubectl delete all -l training=block
+kubectl delete all -l training=block3
 
 kubectl delete ingress frontapp
 
