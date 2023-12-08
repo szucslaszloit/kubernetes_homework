@@ -27,5 +27,13 @@ kubectl delete all -l training=block3
 
 kubectl delete ingress frontapp
 
+Észrevételek:
 
+1. a spring bannert a backappon nem tudtam eltűntetni
+
+2. localhost/8080 -ra Whitelabel error-t ír a böngésző
+
+3. a Postman hívásokra sikeresen válaszol az alkalmazás
+
+(screenshortok mellékelve)
 
