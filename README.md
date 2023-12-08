@@ -1,9 +1,13 @@
 Installation, deployment commands:
 
 kubectl apply -f frontapp-deployment.yaml
+
 kubectl apply -f frontapp-service.yaml
+
 kubectl apply -f frontapp-ingress.yaml
+
 kubectl apply -f backapp-deployment.yaml
+
 kubectl apply -f backapp-service.yaml
 
 
